@@ -1,0 +1,12 @@
+||X||(2)= 61.544284
+||X||(F)= 78.230429
+||X - D*S(training)||(2)= 8.720379
+||X - D*S(training)||(F)= 20.531754
+rank(W_syntethic.*Z__inferred)= 22.878333
+Average Sparsity level =  0.080467
+Average Rank =  24.000000
+||X||(2)= 34.283335
+||X||(F)= 38.392258
+||X - X_prediction_MCchain_Tsteps||(2)= 20.721574
+||X - X_prediction_MCchain_Tsteps||(F)= 27.220129
+MAPE_8_Step_MCchain = 249.558174

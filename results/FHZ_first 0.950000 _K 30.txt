@@ -1,0 +1,5 @@
+||X||(2)= 22.008119
+||X||(F)= 23.712122
+||X - D*S(training)||(2)= 0.119208
+||X - D*S(training)||(F)= 0.154304
+rank(W_syntethic.*Z__inferred)= 20.621667

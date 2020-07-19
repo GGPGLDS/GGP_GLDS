@@ -1,0 +1,9 @@
+||X||(2)= 89.107341
+||X||(F)= 100.822863
+||X - D*S(training)||(2)= 0.524978
+||X - D*S(training)||(F)= 1.104646
+rank(W_syntethic.*Z__inferred)= 8.067000
+||X||(1)= 283.489199
+||X - X_original_recon_kalman||(2)= 6.562703
+||X - X_original_recon_kalman||(F)= 6.922636
+MAPE_1_Step = 11.118012
